@@ -21,17 +21,7 @@
                               <div class="navcontent dropdown-content ">
                                 <a href="#">Main Home</a>
                                 <a href="#">Newspaper Home</a>
-                                <a href="#">Magazine Home</a>
-                                <a href="#">Wide Carousel</a>
-                                <a href="#">Blog Home</a>
-                                <a href="#">Slider Block</a>
-                                <a href="#">Masonry Wide</a>
-                                <a href="#">Simple Home</a>
-                                <a href="#">Masonry Block</a>
-                                <a href="#">Interactive Carousel</a>
-                                <a href="#">Thumbnail Slider</a>
-                                <a href="#">Shop Home</a>  
-                                <a href="#">Landing</a>                              
+                                <a href="#">Magazine Home</a>                            
                               </div>
                         </div></li>
                         <li> <div class="navdrop dropdown ">
